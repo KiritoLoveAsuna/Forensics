@@ -10,3 +10,5 @@ Exif.Photo.DateTimeDigitized                 Ascii      20  2015:07:16 15:38:54
 # Definition
 >DateTimeOriginal is when the photo was taken.  
 >DateTime is when it was further modified.
+
+![image](https://github.com/user-attachments/assets/21c09e66-4d0c-4a15-bf3e-d777c49f1b94)
