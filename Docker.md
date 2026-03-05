@@ -1,4 +1,4 @@
-### docker pull image
+### Docker pull image
 docker pull cryptoops.azurecr.io/fetcherapp:latest
 
 ### Run and Explore Image
